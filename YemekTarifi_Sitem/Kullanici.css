@@ -1,0 +1,25 @@
+﻿a:link {
+    text-decoration: none;
+    font-size: 14px;
+    font-family: 'Segoe UI';
+    font-style: normal,;
+    color: #3E2723;
+}
+
+a:visited {
+    color: #3E2723;
+    font-size: 14px;
+    font-family: 'Segoe UI';
+    font-style: normal;
+}
+
+a:hover {
+    font-size: 16px;
+    color: #094309;
+}
+.tb5 {
+    border: 2px solid #456879;
+    border-radius:10px;
+    height: 22px;
+    width: 230px;
+}
